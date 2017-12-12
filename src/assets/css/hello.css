@@ -1,0 +1,6 @@
+.page.page_hello ul li{
+    width: 100%;
+    height: 200px;
+    overflow:hidden;
+    padding: 5px;
+}
